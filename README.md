@@ -6,7 +6,9 @@ Part of our hub are **videos in which our experts provide explanations and step-
 
 ## What is the Data Knowledge Hub?
 
-Disinformation is becoming increasingly dynamic and widespread in the digital space, especially on major social platforms. Algorithms and platform design features often amplify disinformation, hate, and incitement. This project seeks to address these challenges by enabling more effective research on social media. The project reduces barriers to social media research by aggregating essential information, legal frameworks, tools, and code samples through crowdsourcing. By doing so, it aims to support technically capable individuals in conducting thorough and contextual social media analysis. To this end, it provides:
+Disinformation is becoming increasingly dynamic and widespread in the digital space, especially on major social platforms. Algorithms and platform design features often amplify disinformation, hate, and incitement. This project seeks to address these challenges by enabling more effective research on social media. 
+
+The project reduces barriers to social media research by aggregating essential information, legal frameworks, tools, and code samples through crowdsourcing. By doing so, it aims to support technically capable individuals in conducting thorough and contextual social media analysis. To this end, it provides:
 
 - **Knowledge Base**: A comprehensive repository of resources related to social media monitoring.
 - **Tools and Code Samples**: Curated tools and code snippets to facilitate research and analysis.
